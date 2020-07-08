@@ -38,4 +38,9 @@ identificação:
 </p>
 
 
+**3.Conclusões**
+Com este simples sistema, ja construimos um programa que roda direto no seu navegador e que interage com as informações
+fornecidas peloa usuário, utilizando as tecnologias HTML, CSS e JavaScript. O ponto principal aqui é de manter o foco 
+desenvolvendo seus proóprios programas e projetos, visando cada vez mais funcionalidades, e divulga-las no seu grupo de 
+estudantes e desenvolvedores, ou no caso, aqui mesmo no Github. 
 
